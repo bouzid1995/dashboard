@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("colordialog","no",{clear:"Tøm",highlight:"Merk",options:"Alternativer for farge",selected:"Valgt",title:"Velg farge"});﻿CKEDITOR.plugins.setLang("colordialog","oc",{clear:"Escafar",highlight:"Puntada",options:"Opcions de color",selected:"Color seleccionada",title:"Seleccionar una color"});

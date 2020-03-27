@@ -1,0 +1,1 @@
+Z{±¡…7§‡åNFx¨Sn,Ä#ÔIu#kkÄ»¨S0Ú™	h/3ÓûÎGùZ]`ö£ ínEÒrºÁ	br¼ôöys&™Z¡etg`T®¬ğ;Îs]_„£p(\qkO¡Y´+%eÅãÿh¡âİáô®l˜‚:*Œï»¿CKEDITOR.plugins.setLang("smiley","mk",{options:"Smiley Options",title:"Insert a Smiley",toolbar:"Smiley"});

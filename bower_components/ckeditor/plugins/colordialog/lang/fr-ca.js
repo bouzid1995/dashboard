@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("colordialog","fo",{clear:"Strika",highlight:"Framheva",options:"Litmøguleikar",selected:"Valdur litur",title:"Vel lit"});﻿CKEDITOR.plugins.setLang("colordialog","fr-ca",{clear:"Effacer",highlight:"Surligner",options:"Options de couleur",selected:"Couleur sélectionnée",title:"Choisir une couleur"});

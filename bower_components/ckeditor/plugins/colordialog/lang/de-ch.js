@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("colordialog","da",{clear:"Nulstil",highlight:"Markér",options:"Farvemuligheder",selected:"Valgt farve",title:"Vælg farve"});﻿CKEDITOR.plugins.setLang("colordialog","de-ch",{clear:"Entfernen",highlight:"Hervorheben",options:"Farboptionen",selected:"Ausgewählte Farbe",title:"Farbe auswählen"});

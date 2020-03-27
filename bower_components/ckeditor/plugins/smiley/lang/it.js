@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("smiley","is",{options:"Smiley Options",title:"Velja svip",toolbar:"Svipur"});﻿CKEDITOR.plugins.setLang("smiley","it",{options:"Opzioni Smiley",title:"Inserisci emoticon",toolbar:"Emoticon"});

@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("bidi","hu",{ltr:"Szöveg iránya balról jobbra",rtl:"Szöveg iránya jobbról balra"});﻿CKEDITOR.plugins.setLang("bidi","id",{ltr:"Arah penulisan dari kiri ke kanan.",rtl:"Arah penulisan dari kanan ke kiri."});

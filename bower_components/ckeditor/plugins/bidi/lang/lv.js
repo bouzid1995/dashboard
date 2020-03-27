@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("bidi","lt",{ltr:"Tekstas iš kairės į dešinę",rtl:"Tekstas iš dešinės į kairę"});﻿CKEDITOR.plugins.setLang("bidi","lv",{ltr:"Teksta virziens no kreisās uz labo",rtl:"Teksta virziens no labās uz kreiso"});

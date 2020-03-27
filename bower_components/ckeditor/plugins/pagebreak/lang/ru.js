@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("pagebreak","ro",{alt:"Page Break",toolbar:"Inserează separator de pagină (Page Break)"});﻿CKEDITOR.plugins.setLang("pagebreak","ru",{alt:"Разрыв страницы",toolbar:"Вставить разрыв страницы для печати"});
